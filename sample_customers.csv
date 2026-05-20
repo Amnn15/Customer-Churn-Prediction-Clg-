@@ -1,0 +1,6 @@
+CreditScore,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Geography,Gender
+600,35,3,50000,1,1,1,50000,India,Male
+720,45,5,120000,2,1,0,80000,Germany,Female
+580,29,2,30000,1,0,1,40000,Spain,Male
+810,60,8,200000,3,1,0,100000,Germany,Female
+650,40,4,70000,2,1,1,60000,India,Female
